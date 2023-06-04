@@ -1,7 +1,7 @@
 Gradle Example
 ==============
 
-This is a simple Gradle project demonstrating local and remote dependency resolution and building an executable jar.
+This is a simple Gradle project demonstrating local and remote dependency resolution and building an executable jar. :D
 
 Running the example
 -------------------
